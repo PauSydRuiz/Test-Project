@@ -1,0 +1,38 @@
+
+
+/* background color*/
+body{
+    background-color: white;
+    font-size: 70%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*logo*/
+
+.logo{
+   text-align: center;
+}
+
+/*placeholder I'm feeling fantastic -- I'm feeling unwell */
+
+.placehoder{
+    position: absolute;
+}
+
+/*checkboxes*/
+.checkbox{
+    text-align: center;
+    padding: 0.1rem;
+    margin: 0.5rem;
+
+}
+
+/*Welcome question*/
+.h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 8rem;
+}
+
+.submit{
+    color: gold;
+}
