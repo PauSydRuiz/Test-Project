@@ -22,11 +22,14 @@ body{
 /*checkboxes*/
 .checkbox{
     text-align: center;
+    padding: 0.1rem;
+    margin: 0.5rem;
 
 }
 
-/*H1*/
-.{
+/*Welcome question*/
+.h1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 6.20rem;
+    font-size: 8rem;
 }
+
