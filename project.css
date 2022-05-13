@@ -1,3 +1,9 @@
+body {
+    background-image: url(Pictures/download.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 p {
     text-align: center;
     font-family:cursive;
