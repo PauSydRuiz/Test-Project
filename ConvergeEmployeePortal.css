@@ -5,11 +5,8 @@ background-attachment: center;
 background-position: center; 
 background-size: auto;
 padding: absolute;
-
-
-
-
 }
+
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
@@ -88,7 +85,6 @@ img {
 #myDIV {
   position: center;
   height:5px;
-  background-color:#FFFFFF;
   text-align: right;
   display: inline-block;
   font-size: 16px;
